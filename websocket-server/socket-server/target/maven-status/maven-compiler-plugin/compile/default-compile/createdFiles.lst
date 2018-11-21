@@ -1,0 +1,4 @@
+com\shein\server\WebSocketServer$1.class
+com\shein\server\WebSocketServer.class
+com\shein\server\handler\MyChannelHandler.class
+com\shein\SocketServerApplication.class

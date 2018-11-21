@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: spring-core-4.3.20.RELEASE.jar jul-to-slf4j-1.7.25.jar jcl
+ -over-slf4j-1.7.25.jar log4j-over-slf4j-1.7.25.jar logback-core-1.1.1
+ 1.jar spring-boot-starter-1.5.17.RELEASE.jar spring-aop-4.3.20.RELEAS
+ E.jar spring-boot-autoconfigure-1.5.17.RELEASE.jar spring-expression-
+ 4.3.20.RELEASE.jar snakeyaml-1.17.jar protostuff-runtime-1.4.0.jar pr
+ otostuff-core-1.4.0.jar protostuff-api-1.4.0.jar spring-boot-starter-
+ logging-1.5.17.RELEASE.jar slf4j-api-1.7.25.jar logback-classic-1.1.1
+ 1.jar spring-context-4.3.20.RELEASE.jar spring-beans-4.3.20.RELEASE.j
+ ar protostuff-collectionschema-1.4.0.jar netty-all-4.1.5.Final.jar sp
+ ring-boot-1.5.17.RELEASE.jar
+Main-Class: com.shein.SocketServerApplication
+
